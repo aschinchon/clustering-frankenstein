@@ -1,6 +1,6 @@
 # Clustering Frankenstein
 
-Tutorial in R to create images of Frankenstein from this picture using hierarchical clustering. Some examples:
+Tutorial in R to create images of Frankenstein from [this picture](https://fronkonstin.com/wp-content/uploads/2018/04/frankenstein.jpg) using hierarchical clustering. Some examples:
 <img src="https://fronkonstin.com/wp-content/uploads/2019/08/franky3471_2.84248466603458.png" width=30%></img>
 <img src="https://fronkonstin.com/wp-content/uploads/2019/08/franky4930_28.7992267962545.png" width=30%></img>
 <img src="https://fronkonstin.com/wp-content/uploads/2019/08/franky4850.png" width=30%></img>
